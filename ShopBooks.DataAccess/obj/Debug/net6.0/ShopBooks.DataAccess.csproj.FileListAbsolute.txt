@@ -1,0 +1,17 @@
+C:\F\ShopBooks\ShopBooks\ShopBooks.DataAccess\bin\Debug\net6.0\ShopBooks.DataAccess.deps.json
+C:\F\ShopBooks\ShopBooks\ShopBooks.DataAccess\bin\Debug\net6.0\ShopBooks.DataAccess.runtimeconfig.json
+C:\F\ShopBooks\ShopBooks\ShopBooks.DataAccess\bin\Debug\net6.0\ShopBooks.DataAccess.dll
+C:\F\ShopBooks\ShopBooks\ShopBooks.DataAccess\bin\Debug\net6.0\ShopBooks.DataAccess.pdb
+C:\F\ShopBooks\ShopBooks\ShopBooks.DataAccess\bin\Debug\net6.0\ShopBooks.Models.dll
+C:\F\ShopBooks\ShopBooks\ShopBooks.DataAccess\bin\Debug\net6.0\ShopBooks.Models.pdb
+C:\F\ShopBooks\ShopBooks\ShopBooks.DataAccess\obj\Debug\net6.0\ShopBooks.DataAccess.csproj.AssemblyReference.cache
+C:\F\ShopBooks\ShopBooks\ShopBooks.DataAccess\obj\Debug\net6.0\ShopBooks.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\F\ShopBooks\ShopBooks\ShopBooks.DataAccess\obj\Debug\net6.0\ShopBooks.DataAccess.AssemblyInfoInputs.cache
+C:\F\ShopBooks\ShopBooks\ShopBooks.DataAccess\obj\Debug\net6.0\ShopBooks.DataAccess.AssemblyInfo.cs
+C:\F\ShopBooks\ShopBooks\ShopBooks.DataAccess\obj\Debug\net6.0\ShopBooks.DataAccess.csproj.CoreCompileInputs.cache
+C:\F\ShopBooks\ShopBooks\ShopBooks.DataAccess\obj\Debug\net6.0\ShopBooks.DataAccess.csproj.CopyComplete
+C:\F\ShopBooks\ShopBooks\ShopBooks.DataAccess\obj\Debug\net6.0\ShopBooks.DataAccess.dll
+C:\F\ShopBooks\ShopBooks\ShopBooks.DataAccess\obj\Debug\net6.0\refint\ShopBooks.DataAccess.dll
+C:\F\ShopBooks\ShopBooks\ShopBooks.DataAccess\obj\Debug\net6.0\ShopBooks.DataAccess.pdb
+C:\F\ShopBooks\ShopBooks\ShopBooks.DataAccess\obj\Debug\net6.0\ShopBooks.DataAccess.genruntimeconfig.cache
+C:\F\ShopBooks\ShopBooks\ShopBooks.DataAccess\obj\Debug\net6.0\ref\ShopBooks.DataAccess.dll

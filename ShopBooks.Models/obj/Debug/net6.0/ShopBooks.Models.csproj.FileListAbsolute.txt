@@ -1,0 +1,14 @@
+C:\F\ShopBooks\ShopBooks\ShopBooks.Models\bin\Debug\net6.0\ShopBooks.Models.deps.json
+C:\F\ShopBooks\ShopBooks\ShopBooks.Models\bin\Debug\net6.0\ShopBooks.Models.runtimeconfig.json
+C:\F\ShopBooks\ShopBooks\ShopBooks.Models\bin\Debug\net6.0\ShopBooks.Models.dll
+C:\F\ShopBooks\ShopBooks\ShopBooks.Models\bin\Debug\net6.0\ShopBooks.Models.pdb
+C:\F\ShopBooks\ShopBooks\ShopBooks.Models\obj\Debug\net6.0\ShopBooks.Models.csproj.AssemblyReference.cache
+C:\F\ShopBooks\ShopBooks\ShopBooks.Models\obj\Debug\net6.0\ShopBooks.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\F\ShopBooks\ShopBooks\ShopBooks.Models\obj\Debug\net6.0\ShopBooks.Models.AssemblyInfoInputs.cache
+C:\F\ShopBooks\ShopBooks\ShopBooks.Models\obj\Debug\net6.0\ShopBooks.Models.AssemblyInfo.cs
+C:\F\ShopBooks\ShopBooks\ShopBooks.Models\obj\Debug\net6.0\ShopBooks.Models.csproj.CoreCompileInputs.cache
+C:\F\ShopBooks\ShopBooks\ShopBooks.Models\obj\Debug\net6.0\ShopBooks.Models.dll
+C:\F\ShopBooks\ShopBooks\ShopBooks.Models\obj\Debug\net6.0\refint\ShopBooks.Models.dll
+C:\F\ShopBooks\ShopBooks\ShopBooks.Models\obj\Debug\net6.0\ShopBooks.Models.pdb
+C:\F\ShopBooks\ShopBooks\ShopBooks.Models\obj\Debug\net6.0\ShopBooks.Models.genruntimeconfig.cache
+C:\F\ShopBooks\ShopBooks\ShopBooks.Models\obj\Debug\net6.0\ref\ShopBooks.Models.dll

@@ -1,0 +1,14 @@
+C:\F\ShopBooks\ShopBooks\ShopBooks.Utility\bin\Debug\net6.0\ShopBooks.Utility.deps.json
+C:\F\ShopBooks\ShopBooks\ShopBooks.Utility\bin\Debug\net6.0\ShopBooks.Utility.dll
+C:\F\ShopBooks\ShopBooks\ShopBooks.Utility\bin\Debug\net6.0\ShopBooks.Utility.pdb
+C:\F\ShopBooks\ShopBooks\ShopBooks.Utility\obj\Debug\net6.0\ShopBooks.Utility.csproj.AssemblyReference.cache
+C:\F\ShopBooks\ShopBooks\ShopBooks.Utility\obj\Debug\net6.0\ShopBooks.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\F\ShopBooks\ShopBooks\ShopBooks.Utility\obj\Debug\net6.0\ShopBooks.Utility.AssemblyInfoInputs.cache
+C:\F\ShopBooks\ShopBooks\ShopBooks.Utility\obj\Debug\net6.0\ShopBooks.Utility.AssemblyInfo.cs
+C:\F\ShopBooks\ShopBooks\ShopBooks.Utility\obj\Debug\net6.0\ShopBooks.Utility.csproj.CoreCompileInputs.cache
+C:\F\ShopBooks\ShopBooks\ShopBooks.Utility\obj\Debug\net6.0\ShopBooks.Utility.dll
+C:\F\ShopBooks\ShopBooks\ShopBooks.Utility\obj\Debug\net6.0\refint\ShopBooks.Utility.dll
+C:\F\ShopBooks\ShopBooks\ShopBooks.Utility\obj\Debug\net6.0\ShopBooks.Utility.pdb
+C:\F\ShopBooks\ShopBooks\ShopBooks.Utility\obj\Debug\net6.0\ref\ShopBooks.Utility.dll
+C:\F\ShopBooks\ShopBooks\ShopBooks.Utility\bin\Debug\net6.0\ShopBooks.Utility.runtimeconfig.json
+C:\F\ShopBooks\ShopBooks\ShopBooks.Utility\obj\Debug\net6.0\ShopBooks.Utility.genruntimeconfig.cache
